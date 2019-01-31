@@ -1,6 +1,12 @@
+body{
+  background-color: red;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+.grande{
+  padding: 50vh;
+}
 .tamanho{
     width: 300px;
-}
-.vermelho{
-  color: red;
 }
